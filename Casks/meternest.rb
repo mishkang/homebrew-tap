@@ -12,7 +12,7 @@ cask "meternest" do
     strategy :github_latest
   end
 
-  depends_on arch: :arm64, macos: ">= :ventura"
+  depends_on arch: :arm64, macos: :ventura
 
   app "MeterNest.app"
 end
