@@ -1,6 +1,6 @@
 cask "meternest" do
-  version "0.8.8"
-  sha256 "c191801ff58bcf1e1ddf648e359425c4dc47954b66f41cae746092811e5dbc69"
+  version "0.8.9"
+  sha256 "9ecaf130e6c11ca1a883b23c8de73fdba177f636a7fe6752679ff1c0485ace5c"
 
   url "https://github.com/mishkang/MeterNest/releases/download/v#{version}/MeterNest_#{version}_aarch64.dmg"
   name "MeterNest"
